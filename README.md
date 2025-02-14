@@ -1,4 +1,4 @@
-# PRODIGY_ML_04
+# Hand Signs Recognition 
 
 This is my 4th task for ProdigyInfotech, where I make a 
 CNN model for hand signs recognition, which have a 
